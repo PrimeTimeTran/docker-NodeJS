@@ -1,8 +1,8 @@
 {
-  "name": "d-NodeJS",
+  "name": "docker_node_js",
   "version": "1.0.0",
   "description": "Node.js on Docker",
-  "author": "First Last <first.last@example.com>",
+  "author": "Loi Tran datloiboi@gmail.com",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
